@@ -1,0 +1,21 @@
+{
+  "id": "9993b28c-4775-4ee1-9982-76783c524864",
+  "uid": "consequuntur-illum-aliquid",
+  "type": "customPublication",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Transform 24/7 bandwidth",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Est irure sunt est nostrud.",
+        "spans": []
+      }
+    ]
+  }
+}

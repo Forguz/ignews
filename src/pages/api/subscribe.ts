@@ -65,6 +65,6 @@ export default async function subscribe(req: NextApiRequest, res: NextApiRespons
     return res.status(200).json({ sessionId: stripeCheckoutSession.id })
   } else {
     res.setHeader("Allow", "POST");
-    res.status(405).send('Method Not Allowed');
+    res.status(405).end('Method Not Allowed');
   }
 }

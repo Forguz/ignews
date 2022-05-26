@@ -1,0 +1,20 @@
+{
+  "_cts": {
+    "customPublication": {
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    },
+    "publicationCustomTest": {
+      "content": {
+        "config": {
+          "patternType": "STORY",
+          "blocks": 1
+        }
+      }
+    }
+  }
+}

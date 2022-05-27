@@ -15,6 +15,20 @@
           "blocks": 1
         }
       }
+    },
+    "publication": {
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "content": {
+        "config": {
+          "patternType": "STORY",
+          "blocks": 3
+        }
+      }
     }
   }
 }
